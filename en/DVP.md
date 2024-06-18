@@ -9,7 +9,7 @@ forwarding camera input image data to KPU or memory.
 
 The DVP unit has the following features:
 
-- Support RGB565, RGB422 and single channel Y gray scale input mode
+- Support RGB565, YUV422 and single channel Y gray scale input mode
 - Support for setting frame interrupt
 - Support setting transfer address
 - Supports writing data to two addresses at the same time (output format is RGB888 and RGB565 respectively)
